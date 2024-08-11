@@ -1,5 +1,5 @@
 {
-  "redirects": [{"source": "/berkeleywebdesign",       "destination": "/https:moregoodreviews.comreviewberkeleyweb",       "permanent": true     }
+  "redirects": [{"source": "/berkeleywebdesign",       "destination": "/https:moregoodreviews.comreviewberkeleyweb",       "permanent": true     },{"source": "/cal",       "destination": "/reviewberkeleyweb",       "permanent": true     }
 ],
   "rewrites": [
     {
